@@ -37,30 +37,48 @@ Echoes-Of-The-Old-Tower-rpg/
 ├── src/
 │   └── rpg_game.c
 └── README.md
+```
 
-
-
-How to Run
+## How to Run
+```text
 Compile
+
 
 Using GCC:
 
 gcc src/rpg_game.c -o rpg
-Run on Windows
-rpg.exe
-Documentation
 
+
+```
+
+## Documentation
+```text
 The complete project report is available here:
 
 docs/project-report.pdf
 
-Academic Context
+```
 
-Course: CSE103 – Structured Programming
-Project: R.P.G Game – Echoes of the Old Tower
-Institution: East West University
+## Academic Context
 
-Authors
-Adnan Khondakar(main developer)
-Aritro Huda(debugger)
-Rashed Hasan(test runner)
+-Course: CSE103 – Structured Programming
+
+-Project: R.P.G Game – Echoes of the Old Tower
+
+-Institution: East West University
+
+## Authors
+-Adnan Khondakar(main developer)
+
+-Aritro Huda(debugger)
+
+-Rashed Hasan(test runner)
+
+
+
+
+
+
+
+
+
